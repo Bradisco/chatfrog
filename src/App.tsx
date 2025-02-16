@@ -89,7 +89,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrog-logo.png"
+                src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrog.webp"
                 alt="ChatFrog Character"
                 className="rounded-2xl shadow-lg shadow-primary/20"
               />
