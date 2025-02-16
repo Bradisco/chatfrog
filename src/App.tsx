@@ -42,7 +42,7 @@ function App() {
         <div className="container mx-auto text-center">
           <div className="mb-12">
             <img 
-              src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrog-banner.png" 
+              src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrog_banner.webp" 
               alt="ChatFrog Banner" 
               className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
             />
