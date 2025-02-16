@@ -90,7 +90,7 @@ function App() {
             <div>
               <img 
                 src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/Capture_Gorilla.PNG"
-                alt="ChatFrog Character"
+                alt="ChatFrog AI Character"
                 className="rounded-2xl shadow-lg shadow-primary/20"
               />
             </div>
