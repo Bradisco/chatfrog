@@ -42,7 +42,7 @@ function App() {
         <div className="container mx-auto text-center">
           <div className="mb-12">
             <img 
-              src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrog_banner.webp" 
+              src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/chatfrogbanner.webp" 
               alt="ChatFrog AI Banner" 
               className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
             />
@@ -89,7 +89,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/Capture_Gorilla.PNG"
+                src="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/capturegorilla.png"
                 alt="ChatFrog AI Character"
                 className="rounded-2xl shadow-lg shadow-primary/20"
               />
