@@ -42,7 +42,7 @@ function App() {
         <div className="container mx-auto text-center">
           <div className="mb-12">
             <img 
-              src="https://github.com/Bradisco/chatfrog/blob/main/chatfrogbanner.webp" 
+              src="https://github.com/Bradisco/chatfrog/blob/main/chatfrogbanner.webp?raw=true" 
               alt="ChatFrog Banner" 
               className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
             />
@@ -89,7 +89,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://github.com/Bradisco/chatfrog/blob/main/capturegorilla.PNG"
+                src="https://github.com/Bradisco/chatfrog/blob/main/capturegorilla.PNG?raw=true"
                 alt="ChatFrog AI Character"
                 className="rounded-2xl shadow-lg shadow-primary/20"
               />
