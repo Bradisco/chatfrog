@@ -25,7 +25,7 @@ function App() {
               <span className="text-2xl font-bold text-white">ChatFrog</span>
             </div>
             <div className="hidden md:flex space-x-8">
-              <a href="#about" className="text-gray-300 hover:text-accent">About ChatFrog</a>
+              <a href="#about" className="text-gray-300 hover:text-accent">About</a>
               <a href="#how-to-buy" className="text-gray-300 hover:text-accent">How to Buy</a>
               <a href="#tokenomics" className="text-gray-300 hover:text-accent">Tokenomics</a>
               <a href="#community" className="text-gray-300 hover:text-accent">Community</a>
@@ -42,7 +42,7 @@ function App() {
         <div className="container mx-auto text-center">
           <div className="mb-12">
             <img 
-              src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/chatfrog_banner.webp?token=GHSAT0AAAAAAC6R7OUMEA5IM6HLN35CLIUAZ5TDRYQ" 
+              src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/chatfrog_banner.webp" 
               alt="ChatFrog Banner" 
               className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
             />
