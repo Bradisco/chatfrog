@@ -25,7 +25,7 @@ function App() {
               <span className="text-2xl font-bold text-white">ChatFrog</span>
             </div>
             <div className="hidden md:flex space-x-8">
-              <a href="#about" className="text-gray-300 hover:text-accent">About</a>
+              <a href="#about" className="text-gray-300 hover:text-accent">About chat</a>
               <a href="#how-to-buy" className="text-gray-300 hover:text-accent">How to Buy</a>
               <a href="#tokenomics" className="text-gray-300 hover:text-accent">Tokenomics</a>
               <a href="#community" className="text-gray-300 hover:text-accent">Community</a>
