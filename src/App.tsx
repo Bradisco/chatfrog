@@ -43,7 +43,7 @@ function App() {
           <div className="mb-12">
             <img 
               src="https://github.com/Bradisco/chatfrog/blob/main/chatfrogbanner.webp" 
-              alt="ChatFrog AI Banner" 
+              alt="ChatFrog Banner" 
               className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
             />
           </div>
