@@ -89,7 +89,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://github.com/Bradisco/chatfrog/blob/main/capturegorilla.PNG?raw=true"
+                src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/capturegorilla.PNG?token=GHSAT0AAAAAAC6R7OUMVREOSNA5PCJEC6ISZ5TDMAA"
                 alt="ChatFrog AI Character"
                 className="rounded-2xl shadow-lg shadow-primary/20"
               />
