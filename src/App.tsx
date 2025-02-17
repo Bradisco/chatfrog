@@ -91,7 +91,7 @@ function App() {
               <img 
                 src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/chatfrog.webp?token=GHSAT0AAAAAAC6R7OUM5DF2J3VNNVWNSU72Z5TDWDA"
                 alt="ChatFrog AI Character"
-                className="rounded-2xl shadow-lg shadow-primary/20"
+                className="w-32 h-auto rounded-lg" 
               />
             </div>
             <div>
