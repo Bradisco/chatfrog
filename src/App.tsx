@@ -64,7 +64,7 @@ function App() {
             </button>
           </div>
           
-          {/* Stats */}
+          {/* Stats */
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             <div className="cyberpunk-card p-6 rounded-2xl neon-border">
               <h3 className="text-primary mb-2">Current Price</h3>
@@ -78,7 +78,7 @@ function App() {
               <h3 className="text-primary mb-2">Holders</h3>
               <p className="text-2xl font-bold">2,420</p>
             </div>
-          </div>
+          </div>}
         </div>
       </section>
 
