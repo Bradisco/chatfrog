@@ -143,7 +143,11 @@ function App() {
                 <MessageSquare className="w-6 h-6 text-primary" />
               </div>
               <h3 className="text-xl font-bold mb-4 text-primary">3. Swap for $CHFR</h3>
-              <p className="text-gray-300">Use Raydium or Jupiter to swap your SOL for $CHFR</p>
+              <p className="text-gray-300">
+  Use <a href="https://www.birdeye.so/token/3D1cRyMNhjGFrC2zZYbxdhS32Lbjb5aXziucFybLpump?chain=solana" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Birdeye</a>, 
+  <a href="https://raydium.io" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Raydium</a>, or 
+  <a href="https://jup.ag" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Jupiter</a> to swap your SOL for $CHFR.
+</p>
             </div>
           </div>
         </div>
