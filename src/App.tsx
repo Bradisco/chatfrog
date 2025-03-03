@@ -224,7 +224,7 @@ function App() {
           <h2 className="text-4xl font-bold mb-12 hero-gradient">Join the Community</h2>
           <p className="text-xl text-gray-300 mb-8">Be part of the ChatFrog adventure</p>
           <div className="flex flex-col md:flex-row justify-center gap-4 max-w-md mx-auto">
-            <a href="https://twitter.com/ChatFrog3" target="_blank" rel="noopener noreferrer" 
+            <a href="https://twitter.com/ChatFrog" target="_blank" rel="noopener noreferrer" 
                className="flex items-center justify-center gap-2 bg-primary text-dark font-bold px-8 py-4 rounded-full hover:bg-primary-hover transition-colors">
               <Twitter className="w-5 h-5" />
               Twitter
