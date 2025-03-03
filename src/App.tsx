@@ -63,7 +63,7 @@ function App() {
               Join Community
             </button>
           </div>
-          
+          </section>
           {/* Stats */}
           
      
