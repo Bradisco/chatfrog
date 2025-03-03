@@ -12,6 +12,13 @@ header {
     background-color: #4caf50;
     color: white;
     padding: 20px;
+    position: relative;
+}
+
+header img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
 }
 
 .btn {
@@ -21,6 +28,8 @@ header {
     color: black;
     font-weight: bold;
     border-radius: 5px;
+    display: inline-block;
+    margin-top: 15px;
 }
 
 section {
