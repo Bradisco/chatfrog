@@ -38,36 +38,34 @@ function App() {
       </nav>
 
       {/* Hero Section */}
-      <section className="pt-32 pb-20 px-4">
-        <div className="container mx-auto text-center">
-          <div className="mb-12">
-            <img 
-              src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/chatfrog_banner.webp" 
-              alt="ChatFrog Banner" 
-              className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
-            />
-          </div>
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 hero-gradient">
-            The AI Meme Coin
-          </h1>
-          <p className="text-2xl md:text-3xl text-gray-300 mb-8">
-            With Ribbiting Potential!
-          </p>
-          <div className="flex flex-col md:flex-row justify-center gap-4 mb-12">
-            <button className="bg-accent text-dark font-bold px-8 py-4 rounded-full hover:bg-accent-hover transition-colors flex items-center justify-center gap-2">
-              <Rocket className="w-5 h-5" />
-              Buy $CHFR Now
-            </button>
-            <button className="bg-primary text-dark font-bold px-8 py-4 rounded-full hover:bg-primary-hover transition-colors flex items-center justify-center gap-2">
-              <Users className="w-5 h-5" />
-              Join Community
-            </button>
-          </div>
-          </section>
-         
-          
-     
-
+<section className="pt-32 pb-20 px-4">
+  <div className="container mx-auto text-center">
+    <div className="mb-12">
+      <img 
+        src="https://raw.githubusercontent.com/Bradisco/chatfrog/refs/heads/main/chatfrog_banner.webp" 
+        alt="ChatFrog Banner" 
+        className="max-w-3xl mx-auto rounded-2xl shadow-lg shadow-primary/20"
+      />
+    </div>
+    <h1 className="text-5xl md:text-7xl font-bold mb-6 hero-gradient">
+      The AI Meme Coin
+    </h1>
+    <p className="text-2xl md:text-3xl text-gray-300 mb-8">
+      With Ribbiting Potential!
+    </p>
+    <div className="flex flex-col md:flex-row justify-center gap-4 mb-12">
+      <button className="bg-accent text-dark font-bold px-8 py-4 rounded-full hover:bg-accent-hover transition-colors flex items-center justify-center gap-2">
+        <Rocket className="w-5 h-5" />
+        Buy $CHFR Now
+      </button>
+      <button className="bg-primary text-dark font-bold px-8 py-4 rounded-full hover:bg-primary-hover transition-colors flex items-center justify-center gap-2">
+        <Users className="w-5 h-5" />
+        Join Community
+      </button>
+    </div>
+  </div>
+</section>
+       
       {/* About Section */}
       <section id="about" className="py-20 bg-dark-lighter">
         <div className="container mx-auto px-4">
