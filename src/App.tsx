@@ -66,7 +66,7 @@ function App() {
           
           {/* Stats */}
           
-      </section>
+     
 
       {/* About Section */}
       <section id="about" className="py-20 bg-dark-lighter">
